@@ -1,0 +1,35 @@
+{
+  "autores": [
+    {
+      "name": "John Green ",
+      "idadeid": "44 anos",
+      "editoracod": "2",
+      "categoria": "Romance",
+      "id": 1
+    }
+  ],
+  "livros": [
+    {
+      "name": "Quem é você Alasca",
+      "precoid": "34,99",
+      "editoracod": "2",
+      "categoria": "Romance",
+      "autor": "John Green ",
+      "id": 1
+    }
+  ],
+  "editoras": [
+    {
+      "name": "WMF Martins Fontes",
+      "codigo": "2",
+      "id": 1
+    }
+  ],
+  "categorias": [
+    {
+      "name": "Romance",
+      "editoracod": "2",
+      "id": 1
+    }
+  ]
+}
