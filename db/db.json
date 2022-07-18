@@ -1,9 +1,8 @@
 {
   "autores": [
     {
-      "name": "John Green ",
+      "name": "Jhon Green",
       "idadeid": "44 anos",
-      "editoracod": "2",
       "categoria": "Romance",
       "id": 1
     }
@@ -11,11 +10,17 @@
   "livros": [
     {
       "name": "Quem é você Alasca",
-      "precoid": "34,99",
       "editoracod": "2",
       "categoria": "Romance",
       "autor": "John Green ",
       "id": 1
+    },
+    {
+      "name": "A",
+      "editoraId": 1,
+      "categoriaId": 1,
+      "autorId": 1,
+      "id": 2
     }
   ],
   "editoras": [
