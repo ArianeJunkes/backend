@@ -5,22 +5,25 @@
       "idadeid": "44 anos",
       "categoria": "Romance",
       "id": 1
+    },
+    {
+      "name": "Stephen King",
+      "idadeid": "74 anos",
+      "id": 2
+    },
+    {
+      "name": "Kiera Cass",
+      "idadeid": "41 anos",
+      "id": 3
     }
   ],
   "livros": [
     {
-      "name": "Quem é você Alasca",
-      "editoracod": "2",
-      "categoria": "Romance",
-      "autor": "John Green ",
+      "name": "A Seleção",
+      "editoraId": 3,
+      "categoriaId": 3,
+      "autorId": 3,
       "id": 1
-    },
-    {
-      "name": "A",
-      "editoraId": 1,
-      "categoriaId": 1,
-      "autorId": 1,
-      "id": 2
     }
   ],
   "editoras": [
@@ -28,13 +31,28 @@
       "name": "WMF Martins Fontes",
       "codigo": "2",
       "id": 1
+    },
+    {
+      "name": "Saraiva",
+      "id": 2
+    },
+    {
+      "name": "Grupo Companhia das Letras",
+      "id": 3
     }
   ],
   "categorias": [
     {
-      "name": "Romance",
-      "editoracod": "2",
+      "name": "Terror",
       "id": 1
+    },
+    {
+      "name": "Comédia",
+      "id": 2
+    },
+    {
+      "name": "Romance",
+      "id": 3
     }
   ]
 }
